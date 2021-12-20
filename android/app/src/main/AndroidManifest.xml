@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.firebase_flutter_connection">
+    package="com.alibi.firebase_flutter_connection">
    <application
         android:label="firebase_flutter_connection"
         android:name="${applicationName}"
